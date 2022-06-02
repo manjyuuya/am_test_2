@@ -11,7 +11,7 @@ class CashingPage extends StatefulWidget {
 class _CashingPageState extends State<CashingPage> {
 
   Account myAccount =Account(
-  id: '0120',
+  id: '0721',
   name: 'yahata',
 
   );
